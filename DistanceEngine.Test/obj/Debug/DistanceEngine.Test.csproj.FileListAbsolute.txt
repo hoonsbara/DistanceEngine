@@ -1,0 +1,15 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\obj\Debug\DistanceEngine.Test.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\DistanceEngine.Test.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\DistanceEngine.Test.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\DistanceEngine.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\Moq.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\nunit.core.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\nunit.framework.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\nunit.util.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\DistanceEngine.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\Moq.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\bin\Debug\nunit.framework.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\obj\Debug\DistanceEngine.Test.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\DistanceEngine\DistanceEngine.Test\obj\Debug\DistanceEngine.Test.pdb
